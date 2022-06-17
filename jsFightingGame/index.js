@@ -66,3 +66,5 @@ function animate() {
 };
 
 animate();
+
+//Next I will add more movement to the sprites
